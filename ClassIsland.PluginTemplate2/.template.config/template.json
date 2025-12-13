@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "ClassIsland",
+  "classifications": [ "Common" ],
+  "identity": "ClassIsland.PluginTemplate2",
+  "name": "ClassIsland 2 插件模板",
+  "shortName": "cipx-template",
+  "sourceName":"ClassIsland.PluginTemplate2",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
