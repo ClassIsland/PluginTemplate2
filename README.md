@@ -16,7 +16,10 @@ ClassIsland 插件功能目前仍在不断更新中，请记得更新模板。
     ```
 2. 大功告成！您现在可以在 .NET CLI 中通过以下命令行创建项目，或者在 JetBrains Rider 中选择此模板创建项目了！
     ``` bash
-    dotnet new cipx-template -n MyPlugin  # MyPlugin 是您的插件项目名称
+    # MyPlugin 是您的插件项目名称
+    mkdir MyPlugin
+    cd MyPlugin
+    dotnet new cipx-template -n MyPlugin
     ```
 
 接下来您可以继续阅读[开发文档](https://docs.classisland.tech/dev/)，了解插件开发的更多细节。
